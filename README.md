@@ -9,7 +9,7 @@ a BST for the buckets in the hashmap.
 If interested, please take a look at the associated post
 in the blog at the following URI:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/29/design-hashmap-third-approach/
 
 Remember that the best way to learn is to read and experiemnt.
 Enjoy;
